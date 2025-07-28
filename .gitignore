@@ -77,8 +77,6 @@ dmypy.json
 # Pyre
 .pyre/
 
-# VS Code
-.vscode/
 
 # macOS
 .DS_Store
@@ -86,15 +84,6 @@ dmypy.json
 # Virtual environment
 venv/
 .venv/
-
-# Face embeddings and data
-encodings/
-known_faces.json
-
-# Image files
-*.jpg
-*.jpeg
-*.png
 
 # Misc
 *.db

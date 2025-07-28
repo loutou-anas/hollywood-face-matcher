@@ -82,9 +82,3 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 - `image_cleaner.py` is useful to sanitize non-RGB or unsupported image formats.
 - `scraper.py` is optional; it can help you populate your dataset with Google Image search via `icrawler`.
 
----
-
-## 📸 Sample Screenshot
-
-![screenshot](./demo/example_output.png)
-
